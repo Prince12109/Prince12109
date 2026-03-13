@@ -1,9 +1,5 @@
 ## Hi there I'm prince  👋
 
-**Prince12109/Prince12109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m B.Tech student
 - 🌱 I’m currently learning Backend
 - 🤔 I’m looking for help with work on my dream project
